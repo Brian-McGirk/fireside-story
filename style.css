@@ -4,7 +4,9 @@ body {
     font-family: 'Sacramento', cursive;
     font-size: 150%;
     margin-top: 50%;
-    margin-left: 7000vmax;
+    margin-left: 70vmax !important;
+    margin-top: 5%;
+    margin-left: 0;
     margin-right: 20%;
     padding: 2vw;
 }
@@ -21,7 +23,9 @@ a:hover {
     color: green;
 }
 
-
+body {
+    margin-left: 20px;
+}
 
 
     
