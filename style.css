@@ -1,0 +1,8 @@
+body {
+    color: #eeeeee;
+    background-color: darkblue;
+}
+
+a:hover {
+    color: green;
+}
