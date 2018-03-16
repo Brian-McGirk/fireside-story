@@ -2,11 +2,28 @@ body {
     color: white;
     background-color: black;
     font-family: 'Sacramento', cursive;
-    font-size: 32px;
+    font-size: 150%;
     margin-top: 5%;
     margin-left: 20%;
     margin-right: 20%;
-  }
+    padding: 2vw;
+}
+  
+*:before {
+    content: "HEY";
+    display: inline;
+    color: red;
+    width: 40px;
+    height: 1em;
+}
+
 a:hover {
     color: green;
 }
+
+
+
+
+    
+    
+    
